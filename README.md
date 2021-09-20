@@ -1,2 +1,3 @@
 # mycode
-Golang basics for training Sep-20/24
+Golang basics for training Sep-20/24.
+
